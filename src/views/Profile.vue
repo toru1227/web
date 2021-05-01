@@ -11,7 +11,6 @@
         <div class="flex-profile">
           <p class="profile-name">{{name}}</p>
           <div @click="edit">
-
            <p>{{active}}</p>
             <button>変更する</button>
           </div>
